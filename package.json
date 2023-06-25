@@ -8,6 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "faker": "^6.6.6",
+    "miragejs": "^0.1.47",
     "vue": "^3.2.25"
   },
   "devDependencies": {
